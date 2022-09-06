@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8vq6V3AItLwe8S4rJF5wtU8ydjZR10nOULYUo4WlPenlDi7WzG7oOKqqihWxgMYNt0GD1KHPDQgRXFSGSt5sSA==",
+  "dgSpecHash": "B8j2EADIn5+9eRHVk+9QV10P97fDhef6AssrPVJf8WSzo9jf3CwjCWLQ0zBwKY2DJplUqRuWzBGQwRwjgU6fHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Documents\\Projetos\\csharp\\CadastroDeUsuario\\CadastroDeUsuario.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Documents\\Projetos\\csharp\\intelitrader\\Cadastro.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
