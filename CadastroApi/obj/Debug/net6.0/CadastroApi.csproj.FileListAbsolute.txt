@@ -1,61 +1,122 @@
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\appsettings.json
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\CadastroApi.exe
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\CadastroApi.deps.json
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\CadastroApi.runtimeconfig.json
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\CadastroApi.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\CadastroApi.pdb
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\obj\Debug\net6.0\CadastroApi.csproj.AssemblyReference.cache
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\obj\Debug\net6.0\CadastroApi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\obj\Debug\net6.0\CadastroApi.AssemblyInfoInputs.cache
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\obj\Debug\net6.0\CadastroApi.AssemblyInfo.cs
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\obj\Debug\net6.0\CadastroApi.csproj.CoreCompileInputs.cache
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\obj\Debug\net6.0\CadastroApi.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\obj\Debug\net6.0\CadastroApi.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\obj\Debug\net6.0\scopedcss\bundle\CadastroApi.styles.css
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\obj\Debug\net6.0\CadastroApi.csproj.CopyComplete
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\obj\Debug\net6.0\CadastroApi.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\obj\Debug\net6.0\refint\CadastroApi.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\obj\Debug\net6.0\CadastroApi.pdb
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\obj\Debug\net6.0\CadastroApi.genruntimeconfig.cache
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\obj\Debug\net6.0\ref\CadastroApi.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\Humanizer.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\System.Drawing.Common.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\System.Runtime.Caching.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\System.Security.Permissions.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\System.Windows.Extensions.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\USER\Documents\Projetos\CadastroApi\CadastroApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/appsettings.json
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/CadastroApi.exe
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/CadastroApi.deps.json
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/CadastroApi.runtimeconfig.json
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/CadastroApi.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/CadastroApi.pdb
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/obj/Debug/net6.0/CadastroApi.csproj.AssemblyReference.cache
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/obj/Debug/net6.0/CadastroApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/obj/Debug/net6.0/CadastroApi.AssemblyInfoInputs.cache
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/obj/Debug/net6.0/CadastroApi.AssemblyInfo.cs
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/obj/Debug/net6.0/CadastroApi.csproj.CoreCompileInputs.cache
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/obj/Debug/net6.0/CadastroApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/obj/Debug/net6.0/CadastroApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/obj/Debug/net6.0/scopedcss/bundle/CadastroApi.styles.css
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/obj/Debug/net6.0/CadastroApi.csproj.CopyComplete
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/obj/Debug/net6.0/CadastroApi.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/obj/Debug/net6.0/refint/CadastroApi.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/obj/Debug/net6.0/CadastroApi.pdb
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/obj/Debug/net6.0/CadastroApi.genruntimeconfig.cache
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/obj/Debug/net6.0/ref/CadastroApi.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/Humanizer.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/USER/Documents/Projetos/CadastroApi/CadastroApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/appsettings.Development.json
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/appsettings.json
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/CadastroApi
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/CadastroApi.deps.json
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/CadastroApi.runtimeconfig.json
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/CadastroApi.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/CadastroApi.pdb
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/Humanizer.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/System.Drawing.Common.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/System.Runtime.Caching.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/System.Security.Permissions.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/System.Windows.Extensions.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/obj/Debug/net6.0/CadastroApi.csproj.AssemblyReference.cache
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/obj/Debug/net6.0/CadastroApi.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/obj/Debug/net6.0/CadastroApi.AssemblyInfoInputs.cache
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/obj/Debug/net6.0/CadastroApi.AssemblyInfo.cs
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/obj/Debug/net6.0/CadastroApi.csproj.CoreCompileInputs.cache
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/obj/Debug/net6.0/CadastroApi.MvcApplicationPartsAssemblyInfo.cs
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/obj/Debug/net6.0/CadastroApi.MvcApplicationPartsAssemblyInfo.cache
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/obj/Debug/net6.0/staticwebassets.build.json
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/obj/Debug/net6.0/staticwebassets.development.json
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/obj/Debug/net6.0/scopedcss/bundle/CadastroApi.styles.css
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/obj/Debug/net6.0/CadastroApi.csproj.CopyComplete
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/obj/Debug/net6.0/CadastroApi.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/obj/Debug/net6.0/refint/CadastroApi.dll
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/obj/Debug/net6.0/CadastroApi.pdb
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/obj/Debug/net6.0/CadastroApi.genruntimeconfig.cache
+/home/marcoluciano/Meus Arquivos/Projetos/CSharp/intelitrader/CadastroApi/obj/Debug/net6.0/ref/CadastroApi.dll
