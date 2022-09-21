@@ -1,0 +1,19 @@
+.container {
+  background-color: #FFF;
+}
+
+.instruments {
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
+  gap: 10px;
+}
+
+.instrument {
+  border: 1px solid #d3d3d3;
+  padding: 0 10px;
+}
+
+.instrument p {
+  border-bottom: 1px solid #d3d3d3;
+  padding: 10px 0;
+}

@@ -1,0 +1,15 @@
+.markets {
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(350px,1fr));
+  gap: 10px;
+}
+
+.market {
+  border: 1px solid #d3d3d3;
+  padding: 0 10px;
+}
+
+.market p {
+  border-bottom: 1px solid #d3d3d3;
+  padding: 10px 0;
+}
