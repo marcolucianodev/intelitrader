@@ -5,8 +5,9 @@
 }
 
 .market {
-  border: 1px solid #d3d3d3;
+  border: 1px solid #777;
   padding: 0 10px;
+  border-radius: 5px;
 }
 
 .market p {
