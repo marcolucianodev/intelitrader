@@ -13,6 +13,20 @@
   padding: 0 10px;
 }
 
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0;
+  margin: 0;
+}
+
+.header button {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
 .instrument p {
   border-bottom: 1px solid #d3d3d3;
   padding: 10px 0;
