@@ -17,10 +17,10 @@ Para rodar o projeto, você vai precisar ter instalado em sua máquina as seguin
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/marcolucianodev/To-Do-List.git
+$ git clone https://github.com/marcolucianodev/intelitrader.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd To-Do-List
+$ cd intelitrader/webgateway
 
 # Instale as dependências
 $ npm install
