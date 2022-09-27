@@ -1,4 +1,4 @@
-# Sistema consumindo a API do WebGateway
+# Sistema consumindo a API da WebGateway
 
 Sistema desenvolvido em React consumindo o endpoint da API da WebGateway, com opção do usuário inserir dados nas seções Instruments e InteliMarket conforme apresentado pelas mídias abaixo.
 
@@ -6,7 +6,7 @@ Sistema desenvolvido em React consumindo o endpoint da API da WebGateway, com op
 
 [![Preview Image](https://github.com/marcolucianodev/intelitrader/blob/webgateway/webgateway/public/tela2.png)
 
-[![Preview Image](https://github.com/marcolucianodev/To-Do-List/blob/master/src/assets/images/to-do-list.png)](https://react-lista-de-tarefas.netlify.app/)
+[![Preview Image](https://github.com/marcolucianodev/intelitrader/blob/webgateway/webgateway/public/mp4_apresentacao.gif)
 
 ### Pré-requisitos
 
