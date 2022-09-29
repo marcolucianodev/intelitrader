@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import { API_URL } from "../../config/apiUrl";
+
 import FormInstruments from "../FormInstruments";
 import './styles.css'
 
@@ -92,6 +93,7 @@ const Instruments = () => {
           </div>
         ))}
       </div>
+
     </div>
   )
 };
