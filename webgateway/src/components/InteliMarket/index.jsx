@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { API_URL } from "../../config/apiUrl";
 import FormIntelimarket from "../FormIntelimarket";
-import "./styles.css";
+//import "./styles.css";
 
 const InteliMarket = () => {
 
