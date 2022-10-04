@@ -5,15 +5,34 @@ import { MainContainer } from "../../components/MainContainer/styles.js";
 import MainMenu from "../../components/MainMenu";
 import { MainContent } from "../../components/MainContent/styles.js";
 import { 
+  BidInfo,
+  BidInfoIcon,
   Bottom,
+  Buy,
+  Card,
+  CardBody,
+  CardContainer,
+  CardHeader,
+  CardHeaderCenter,
+  CardHeaderLeft,
+  CardHeaderRight,
   CardsArea,
+  CloseButton,
   GetData,
+  MaxPrice,
+  MinPrice,
   PageTitle, 
+  Prices, 
+  PriceValue, 
+  Sell, 
   SetData,
   SetDataButton,
   Top
 } from "./styles.js";
 import FormInstruments from "../../components/FormInstruments/index.jsx";
+import SwapHorizIcon from '@mui/icons-material/SwapHoriz';
+import CloseIcon from '@mui/icons-material/Close';
+import InstrumentsCard from "../../components/InstrumentsCard/index.jsx";
 
 const Instruments = () => {
 
@@ -97,7 +116,7 @@ const Instruments = () => {
     }
 
     const data = {
-      x: 222222,
+      x: s,
       // x: campo,
       // x: document.querySelector("#post").value.toUpperCase(),
       y: "POST 2"
@@ -114,6 +133,10 @@ const Instruments = () => {
     loadAPI(text);
 
     addOnCard();
+
+    setInput(false);
+
+    setText("")
   }
 
   const handleInput = () => {
@@ -141,16 +164,15 @@ const Instruments = () => {
 
   for(let i in instruments) {
     instrumentData.push(
-      <div key={instruments[i].Symbol}>
-        <h2>{instruments[i].Symbol}</h2>
-        <h3>{instruments[i].UpdateTime}</h3>
-        <p>{instruments[i].Properties.Asset}</p>
-        <p>Min Price: {instruments[i].Properties.MinPrice}</p>
-        <p>Max Price: {instruments[i].Properties.MaxPrice}</p>
-        <p>AskPrice(Venda): {instruments[i].Properties.AskPrice}</p>
-        <p>BidPrice(Compra): {instruments[i].Properties.BidPrice}</p>
-        <button onClick={deleteApiItem}>X</button>
-      </div>
+      <InstrumentsCard 
+        symbol={instruments[i].Symbol}
+        askPrice={instruments[i].Properties.AskPrice}
+        bidPrice={instruments[i].Properties.BidPrice}
+        minPrice={instruments[i].Properties.MinPrice} 
+        maxPrice={instruments[i].Properties.MaxPrice}
+        securityDesc={instruments[i].Properties.SecurityDesc}
+        deleteButtom={deleteApiItem}
+      />
     )
   }
 
@@ -186,10 +208,55 @@ const Instruments = () => {
               </SetData>
             </GetData>
 
+            {/*Novo card Inserido*/}
+
+            {/* <CardContainer>
+              <Card>
+                <CardHeader>
+                  <CardHeaderLeft>
+                    <span>91,50</span>
+                  </CardHeaderLeft>
+                  <CardHeaderCenter>
+                    <p>
+                      <span>petr4</span><br/> 
+                      Petrobras<br />
+                      00:00:00
+                    </p>
+                  </CardHeaderCenter>
+                  <CardHeaderRight>     
+                    <span>105,99</span>
+                  </CardHeaderRight>
+                </CardHeader> 
+                <CardBody>
+                <BidInfo>
+                  <Sell>vender</Sell>
+                  <BidInfoIcon>
+                    <SwapHorizIcon />
+                  </BidInfoIcon>
+                  <Buy>comprar</Buy>
+                </BidInfo>
+                <Prices>
+                  <MinPrice>
+                    <span>Min. Price</span>
+                    <PriceValue>50,69</PriceValue>
+                  </MinPrice>
+                  <MaxPrice>
+                    <span>Max. Price</span>
+                    <PriceValue>90,85</PriceValue>
+                  </MaxPrice>
+                </Prices>
+                <CloseButton>Fechar <CloseIcon /></CloseButton>
+                </CardBody>
+              </Card>
+            </CardContainer> */}
+
+            {/* <InstrumentsCard /> */}
+
+            {/* FIM */}
+
             <div>{instrumentData}</div>
 
           </CardsArea>
-
 
           {/* <Input
             type="text"
@@ -200,13 +267,13 @@ const Instruments = () => {
             <button onClick={getData}>Ver dados</button> */}
 
           {/* Novas modificações AQUI */}
-          {newInstruments.map((item, index) => (
+          {/* {newInstruments.map((item, index) => (
             <div key={index}>
               <h2>{item.x}</h2>
               <h2>{item.y}</h2>
               <button onClick={deleteItem}>close</button>
             </div>
-          ))}
+          ))} */}
         </MainContent>
       </MainContainer>
   )
