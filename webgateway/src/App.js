@@ -1,6 +1,6 @@
-import GeneralInfo from "./components/GeneralInfo";
 import Instruments from "./pages/Instruments";
-import InteliMarket from "./components/InteliMarket";
+import Intelimarket from "./pages/Intelimarket";
+import GeneralInfo from "./pages/GeneralInfo";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import GlobalStyle from "./components/GlobalStyle";
 
@@ -10,9 +10,8 @@ function App() {
       <BrowserRouter>
         <Routes> 
           <Route path="/" element={<Instruments />} />
-          {/* <GeneralInfo /> */}
-          {/* <Instruments /> */}
-          {/* <InteliMarket /> */}
+          <Route path="/intelimarket" element={<Intelimarket />} />
+          <Route path="/informacoes-gerais" element={<GeneralInfo />} />
         </Routes>
       </BrowserRouter>
       <GlobalStyle />

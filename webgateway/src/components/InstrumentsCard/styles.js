@@ -5,9 +5,7 @@ import {
   Top 
 } from "../../pages/Instruments/styles";
 
-export const CardContainer = styled(GetData)`
-  /* flex-direction: column; */
-`; 
+export const CardContainer = styled(GetData)``; 
 
 export const Card = styled(SetData)`
 `;

@@ -5,33 +5,15 @@ import { MainContainer } from "../../components/MainContainer/styles.js";
 import MainMenu from "../../components/MainMenu";
 import { MainContent } from "../../components/MainContent/styles.js";
 import { 
-  BidInfo,
-  BidInfoIcon,
   Bottom,
-  Buy,
-  Card,
-  CardBody,
-  CardContainer,
-  CardHeader,
-  CardHeaderCenter,
-  CardHeaderLeft,
-  CardHeaderRight,
   CardsArea,
-  CloseButton,
   GetData,
-  MaxPrice,
-  MinPrice,
   PageTitle, 
-  Prices, 
-  PriceValue, 
-  Sell, 
   SetData,
   SetDataButton,
   Top
 } from "./styles.js";
 import FormInstruments from "../../components/FormInstruments/index.jsx";
-import SwapHorizIcon from '@mui/icons-material/SwapHoriz';
-import CloseIcon from '@mui/icons-material/Close';
 import InstrumentsCard from "../../components/InstrumentsCard/index.jsx";
 
 const Instruments = () => {
@@ -43,45 +25,6 @@ const Instruments = () => {
   const [text, setText] = useState("");
 
   const [input, setInput] = useState(false);
-
-  // const addInstruments = (symbol) => {
-
-  //   axios.get(`http://demo.intelitrader.com.br:5200/iwg/snapshot?q=${symbol}&t=webgateway&c=0&minify=false`)
-  //   .then((response) => {
-  //     setInstruments(response.data.Value)
-  //     console.log(response.data.Value)
-  //   })
-  //   .catch(() => {
-  //     console.error("ERRO")
-  //   })
-
-  //   // const addOnCard = () => {
-
-  //     for(let i in instruments){
-  //       console.log(instruments[i].Symbol)
-  //       var s = instruments[i].Symbol
-  //     }
-  
-  //     const data = {
-  //       x: s,
-  //       // x: campo,
-  //       // x: document.querySelector("#post").value.toUpperCase(),
-  //       y: "POST 2"
-  //     }
-  
-  //     newInstruments.push(data)
-  //     setNewInstruments([...newInstruments])
-  //     console.log(newInstruments)
-  
-  //   // }
-
-  // }
-
-  // const handle = (e) => {
-  //   setText(e.target.value);
-  //   console.log(e.target.Value)
-  // }
-
   
   //XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -208,63 +151,9 @@ const Instruments = () => {
               </SetData>
             </GetData>
 
-            {/*Novo card Inserido*/}
-
-            {/* <CardContainer>
-              <Card>
-                <CardHeader>
-                  <CardHeaderLeft>
-                    <span>91,50</span>
-                  </CardHeaderLeft>
-                  <CardHeaderCenter>
-                    <p>
-                      <span>petr4</span><br/> 
-                      Petrobras<br />
-                      00:00:00
-                    </p>
-                  </CardHeaderCenter>
-                  <CardHeaderRight>     
-                    <span>105,99</span>
-                  </CardHeaderRight>
-                </CardHeader> 
-                <CardBody>
-                <BidInfo>
-                  <Sell>vender</Sell>
-                  <BidInfoIcon>
-                    <SwapHorizIcon />
-                  </BidInfoIcon>
-                  <Buy>comprar</Buy>
-                </BidInfo>
-                <Prices>
-                  <MinPrice>
-                    <span>Min. Price</span>
-                    <PriceValue>50,69</PriceValue>
-                  </MinPrice>
-                  <MaxPrice>
-                    <span>Max. Price</span>
-                    <PriceValue>90,85</PriceValue>
-                  </MaxPrice>
-                </Prices>
-                <CloseButton>Fechar <CloseIcon /></CloseButton>
-                </CardBody>
-              </Card>
-            </CardContainer> */}
-
-            {/* <InstrumentsCard /> */}
-
-            {/* FIM */}
-
-            <div>{instrumentData}</div>
+            {instrumentData}
 
           </CardsArea>
-
-          {/* <Input
-            type="text"
-            placeholder="digite symbol"
-            onChange={handleInstruments}
-            value={text}
-          />
-            <button onClick={getData}>Ver dados</button> */}
 
           {/* Novas modificações AQUI */}
           {/* {newInstruments.map((item, index) => (
