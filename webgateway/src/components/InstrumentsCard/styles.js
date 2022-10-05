@@ -7,8 +7,7 @@ import {
 
 export const CardContainer = styled(GetData)``; 
 
-export const Card = styled(SetData)`
-`;
+export const Card = styled(SetData)``;
 
 export const CardHeader = styled(Top)`
   position: relative;

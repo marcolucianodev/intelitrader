@@ -1,9 +1,5 @@
 import styled from "styled-components";
 
-// export const Container = styled.section`
-
-// `;
-
 export const PageTitle = styled.h1`
   color: #EBF2F1;
   padding: 20px 0 40px;

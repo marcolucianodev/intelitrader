@@ -15,7 +15,7 @@ const GeneralInfo = () => {
     axios.get(`http://demo.intelitrader.com.br:5200/iwg/stats/?t=webgateway`)
     .then((response) => {
       setInfos(response.data)
-      console.log(response.data)
+      // console.log(response.data)
     })
     .catch(() => {
       console.error("DEU ERRO")
