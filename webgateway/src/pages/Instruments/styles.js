@@ -8,6 +8,10 @@ export const PageTitle = styled.h1`
   color: #EBF2F1;
   padding: 20px 0 40px;
   font-style: italic;
+
+  @media (max-width: 480px) {
+    text-align: center;
+  }
 `;
 
 export const CardsArea = styled.section`
@@ -15,6 +19,11 @@ export const CardsArea = styled.section`
   flex-wrap: wrap;
   width: 100%;
   gap: 3px;
+  padding-bottom: 80px;
+
+  @media (max-width: 480px) {
+    justify-content: center;
+  }
 `;
 
 export const GetData = styled.div`

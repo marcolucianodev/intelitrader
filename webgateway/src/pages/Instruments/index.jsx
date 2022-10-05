@@ -115,6 +115,7 @@ const Instruments = () => {
         maxPrice={instruments[i].Properties.MaxPrice}
         securityDesc={instruments[i].Properties.SecurityDesc}
         deleteButtom={deleteApiItem}
+        key={instruments[i]}
       />
     )
   }

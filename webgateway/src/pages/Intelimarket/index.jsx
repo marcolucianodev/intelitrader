@@ -29,7 +29,7 @@ const Intelimarket = () => {
     axios.get(`http://demo.intelitrader.com.br:5200/iwg/stats/?t=webgateway`)
     .then((response) => {
       setMarket(response.data.InteliMarket.feeders)
-      console.log(response.data.InteliMarket.feeders)
+      // console.log(response.data.InteliMarket.feeders)
     })
     .catch(() => {
       console.error("DEU ERRO")
@@ -40,7 +40,7 @@ const Intelimarket = () => {
 
   for(let i in market) {
     marketData.push(
-    <CardContainer>
+    <CardContainer key={market[i].id}>
       <Card>
         <CardBody>
           <IdBox>{market[i].id}</IdBox>
@@ -67,23 +67,6 @@ const Intelimarket = () => {
 
       <MainContent>
         <PageTitle>Intelimarket</PageTitle>
-
-        {/* <CardContainer>
-          <Card>
-            <CardBody>
-              <IdBox>001</IdBox>
-              <CardData>
-                <TextData>LastSendingTime: <Span textColor="#2FB5ED">20221004184144565tt</Span></TextData>
-                <TextData>LastSeqNum: <Span>123</Span></TextData>
-                <TextData>MessagesPerSecond: <Span textColor="#F5BC29">123</Span></TextData>
-                <TextData>PID: <Span>123</Span></TextData>
-                <TextData>Phase: <Span textColor="#2FB5ED">123</Span></TextData>
-                <TextData>QueuedMessages: <Span>123</Span></TextData>
-                <TextData>StartTime: <Span textColor="#F5BC29">123</Span></TextData>
-              </CardData>
-            </CardBody>
-          </Card>
-        </CardContainer> */}
 
         <Container>
           {marketData}

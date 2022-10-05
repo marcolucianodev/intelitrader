@@ -7,4 +7,9 @@ export const MainContent = styled.main`
   height: 100vh;
   padding: 0 2%;
   margin-left: 5rem;
+
+  @media (max-width: 480px) {
+    margin-left: 0;
+  }
+
 `;

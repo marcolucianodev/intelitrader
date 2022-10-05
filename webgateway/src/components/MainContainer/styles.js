@@ -11,4 +11,8 @@ export const MainContainer = styled.main`
   background-position: center;
   position: fixed;
   overflow: auto;
+
+  @media (max-width: 480px) {
+    flex-direction: column;
+  }
 `;
