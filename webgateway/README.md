@@ -1,12 +1,20 @@
 # Sistema consumindo a API da WebGateway
 
-Sistema desenvolvido em React consumindo o endpoint da API da WebGateway, com opção do usuário inserir dados nas seções Instruments e InteliMarket conforme apresentado pelas mídias abaixo.
+Sistema desenvolvido em React consumindo o endpoint da API da WebGateway, com opção do usuário buscar e inserir dados nas seção de Instrumentos conforme apresentado pelas mídias abaixo.
 
-[![Preview Image](https://github.com/marcolucianodev/intelitrader/blob/webgateway/webgateway/public/tela1.png)
+[![Preview Image](https://github.com/marcolucianodev/intelitrader/blob/webgateway/webgateway/src/assets/images/tela-instruments.png)
 
-[![Preview Image](https://github.com/marcolucianodev/intelitrader/blob/webgateway/webgateway/public/tela2.png)
+[![Preview Image](https://github.com/marcolucianodev/intelitrader/blob/webgateway/webgateway/src/assets/images/tela-intelimarket.png)
 
-[![Preview Image](https://github.com/marcolucianodev/intelitrader/blob/webgateway/webgateway/public/mp4_apresentacao.gif)
+[![Preview Image](https://github.com/marcolucianodev/intelitrader/blob/webgateway/webgateway/src/assets/images/tela-info.png)
+
+Páginas Responsivas:
+
+[![Preview Image](https://github.com/marcolucianodev/intelitrader/blob/webgateway/webgateway/src/assets/images/tela-instruments-mobile.png)
+
+[![Preview Image](https://github.com/marcolucianodev/intelitrader/blob/webgateway/webgateway/src/assets/images/tela-intelimarket-mobile.png)
+
+[![Preview Image](https://github.com/marcolucianodev/intelitrader/blob/webgateway/webgateway/src/assets/images/tela-info-mobile.png)
 
 ### Pré-requisitos
 
