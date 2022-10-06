@@ -31,7 +31,7 @@ const InstrumentsCard = ({symbol, askPrice, bidPrice, minPrice, maxPrice, securi
           </CardHeaderLeft>
           <CardHeaderCenter>
             <p>
-              <span>{symbol}</span><br/> 
+              <span>{symbol}</span><br/>
               {securityDesc}<br />
             </p>
           </CardHeaderCenter>

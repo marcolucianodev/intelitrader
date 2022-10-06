@@ -26,15 +26,12 @@ const Instruments = () => {
 
   const [input, setInput] = useState(false);
   
-  //XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
   //Função com a chamada da API, buscando o parâmentro "symbol"
   const loadAPI = (symbol) => {
         
       axios.get(`http://demo.intelitrader.com.br:5200/iwg/snapshot?q=${symbol}&t=webgateway&c=0&minify=false`)
       .then((response) => {
           setInstruments(response.data.Value)
-          console.log(response.data.Value)
       })
       .catch(() => {
         console.error("DEU ERRO")
@@ -44,7 +41,6 @@ const Instruments = () => {
   //Função que pega o valor do input
   const handleInstruments = (e) => {
       setText(e.target.value);
-      console.log(e.target.Value)
   }
 
   //Função que adiciona novos itens na lista
@@ -59,8 +55,6 @@ const Instruments = () => {
 
     newInstruments.push(dados)
     setNewInstruments([...newInstruments])
-    console.log(newInstruments)
-    console.log(instrumentData)
   }
 
   //Função que ativa evento do click no botão e busca os dados na API
@@ -69,7 +63,7 @@ const Instruments = () => {
     if(text !== "") {
       loadAPI(text);
     } else {
-      alert("Por favor insira os dados do ATIVO")
+      alert("Por favor insira o código do ATIVO")
 
     }
 
@@ -144,15 +138,10 @@ const Instruments = () => {
 
           </CardsArea>
 
-          {newInstruments}
+          {/* <CardsArea>
+            {newInstruments}
+          </CardsArea> */}
 
-          {/* {newInstruments.map((item, index) => (
-            <div key={index}>
-              <h2>{item.x}</h2>
-              <h2>{item.y}</h2>
-              <button onClick={deleteItem}>close</button>
-            </div>
-          ))} */}
         </MainContent>
       </MainContainer>
   )
