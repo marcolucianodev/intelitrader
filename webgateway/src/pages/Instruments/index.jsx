@@ -28,52 +28,50 @@ const Instruments = () => {
   
   //XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
-  const loadAPI = (postId) => {
+  //Função com a chamada da API, buscando o parâmentro "symbol"
+  const loadAPI = (symbol) => {
         
-      // postId = text
-      console.log(postId)
-
-      axios.get(`http://demo.intelitrader.com.br:5200/iwg/snapshot?q=${postId}&t=webgateway&c=0&minify=false`)
+      axios.get(`http://demo.intelitrader.com.br:5200/iwg/snapshot?q=${symbol}&t=webgateway&c=0&minify=false`)
       .then((response) => {
-        setInstruments(response.data.Value)
-        console.log(response.data.Value)
+          setInstruments(response.data.Value)
+          console.log(response.data.Value)
       })
       .catch(() => {
         console.error("DEU ERRO")
       })
-
-
   }
 
+  //Função que pega o valor do input
   const handleInstruments = (e) => {
-    setText(e.target.value);
-    console.log(e.target.Value)
+      setText(e.target.value);
+      console.log(e.target.Value)
   }
 
+  //Função que adiciona novos itens na lista
   const addOnCard = () => {
 
+    const dados = []
     for(let i in instruments){
-      console.log(instruments[i].Symbol)
-      var s = instruments[i].Symbol
+      dados.push(
+        instrumentData[i]
+      )
     }
 
-    const data = {
-      x: s,
-      // x: campo,
-      // x: document.querySelector("#post").value.toUpperCase(),
-      y: "POST 2"
-    }
-
-    newInstruments.push(data)
+    newInstruments.push(dados)
     setNewInstruments([...newInstruments])
     console.log(newInstruments)
-
+    console.log(instrumentData)
   }
 
+  //Função que ativa evento do click no botão e busca os dados na API
   const getData = () => {
     
-    loadAPI(text);
+    if(text !== "") {
+      loadAPI(text);
+    } else {
+      alert("Por favor insira os dados do ATIVO")
+
+    }
 
     addOnCard();
 
@@ -82,26 +80,17 @@ const Instruments = () => {
     setText("")
   }
 
+  //Função que verifica se o input está ativo ou não
   const handleInput = () => {
     setInput(true)
   }
 
-
-  //TRABALHAR DAQUI PRA CIMA
-  
+  //Função de deletar os itens
   const deleteItem = (index) => {
-    const tempArr = [...newInstruments];
-    tempArr.splice(index, 1)
-
-    setNewInstruments(tempArr);
+    const tempArr = [...instruments];
+    tempArr.splice(index, 1);
+    setInstruments(tempArr);
   }
-
-  const deleteApiItem = (index) => {
-    const delApiList = [...instruments];
-    delApiList.splice(index, 1)
-    setInstruments(delApiList)
-  }
-
 
   const instrumentData = [];
 
@@ -114,7 +103,7 @@ const Instruments = () => {
         minPrice={instruments[i].Properties.MinPrice} 
         maxPrice={instruments[i].Properties.MaxPrice}
         securityDesc={instruments[i].Properties.SecurityDesc}
-        deleteButtom={deleteApiItem}
+        deleteButtom={deleteItem}
         key={instruments[i]}
       />
     )
@@ -130,7 +119,6 @@ const Instruments = () => {
             Instrumentos
           </PageTitle>
 
-          {/* //CardsArea */}
           <CardsArea>
             <GetData>
               <SetData>
@@ -156,7 +144,8 @@ const Instruments = () => {
 
           </CardsArea>
 
-          {/* Novas modificações AQUI */}
+          {newInstruments}
+
           {/* {newInstruments.map((item, index) => (
             <div key={index}>
               <h2>{item.x}</h2>
