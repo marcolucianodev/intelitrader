@@ -46,14 +46,14 @@ const Instruments = () => {
   //Função que adiciona novos itens na lista
   const addOnCard = () => {
 
-    const dados = []
+    const data = []
     for(let i in instruments){
-      dados.push(
+      data.push(
         instrumentData[i]
       )
     }
 
-    newInstruments.push(dados)
+    newInstruments.push(data)
     setNewInstruments([...newInstruments])
   }
 
