@@ -138,9 +138,9 @@ const Instruments = () => {
 
           </CardsArea>
 
-          {/* <CardsArea>
+          <CardsArea>
             {newInstruments}
-          </CardsArea> */}
+          </CardsArea>
 
         </MainContent>
       </MainContainer>
